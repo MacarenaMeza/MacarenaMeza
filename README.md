@@ -11,8 +11,8 @@
   Ethan :: AboutMe = {
     Pronouns: ["She", "Her"],
     AskMeAbout: ["web dev", "music", "app dev", "coding"],
-    Languages: ["HTML", "CSS", "JavaScript", "Bootstrap", "Python"],
-    Databases: ["MySql"]
+    Languages: ["HTML", "CSS", "JavaScript", "Bootstrap", "Python", "R"],
+    Databases: ["SQL, Power bi"]
    
   def doing(self, now=2022):
         today = self.year
